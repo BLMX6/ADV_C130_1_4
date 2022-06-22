@@ -7,7 +7,7 @@ function setup() {
 }
 
 function modelLoaded() {
-    console.log('Model Loaded!');
+    console.log('¡Modelo cargado!');
 }
 
 function draw() {
